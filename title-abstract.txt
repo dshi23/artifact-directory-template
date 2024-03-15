@@ -1,5 +1,5 @@
 Title:
-<MY SUPER AWESOME PROJECT TITLE>
+New Initialization Mechanisms for Convolutional Neural Networks
 
 Abstract:
-<MY SUPER AWESOME PROJECT ABSTRACT>
+The exploration of feature evolution during the training of neural networks is crucial for advancing our understanding of modern machine learning methodologies. Equally important is the role of initialization, which significantly impacts model performance and convergence. This research aims to investigate the integration of Neural Feature Matrix (NFM) and Average Gradient Outer Product (AGOP) into initialization methods to enhance neural network training. Employing the VGG11 model across diverse datasets (SVHN, CIFAR-10, CIFAR-100, Tiny-ImageNet), we compare traditional and NFM/AGOP-based initialization methods to assess their effects on model accuracy and learning efficiency. Our study seeks to demonstrate the potential advantages of NFM and AGOP in initialization, potentially offering new insights into the optimization of neural networks for improved feature learning and convergence. The findings could have significant implications for the development of more efficient and effective deep learning models, marking a step forward in the field.
